@@ -1,0 +1,12 @@
+# IDE klasörleri
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Kullanıcıya özel veriler
+data/scores.csv
+
+# Geliştirme notları
+extras/
