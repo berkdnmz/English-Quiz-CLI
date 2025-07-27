@@ -10,3 +10,10 @@ data/scores.csv
 
 # Geliştirme notları
 extras/
+
+# Log dosyaları
+*.log
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
