@@ -169,11 +169,11 @@ def quizi_baslat(kullanici_adi : str):
     gezinme_ekrani(kullanici_adi)
 
 
-def sonuclari_kaydet(kullanci_adi : str, skor : str):
+def sonuclari_kaydet(kullanci_adi : str, skor : int):
 #en sonda sonuçları kaydetmek için kullandiğimiz fonksiyon aynı data klasörüne .csv dosyası olacak şekilde sonuçları kaydediyoruz
     try:
         tarih = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        satir = [kullanci_adi, int(skor), tarih]
+        satir = [kullanci_adi, skor, tarih]
         dosya_yolu = "data/scores.csv"
 
         with open(dosya_yolu, 'a', encoding="utf-8", newline="") as dosya:
