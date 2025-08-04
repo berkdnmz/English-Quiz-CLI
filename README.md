@@ -11,6 +11,7 @@ Bu proje, İngilizce kelimelerin Türkçe karşılıklarını test eden komut sa
 - [Kurulum](#kurulum)  
 - [Kullanım](#kullanım)  
 - [Dosya Yapısı](#dosya-yapısı)
+- [Lisans](...)
 
 ---
 
@@ -79,6 +80,11 @@ Ardından ekrandaki yönergeleri takip ederek:
 │   └── scores.csv         # Skorların kaydedildiği dosya
 ├── README.md              # Bu dosya
 ```
+---
+## Lisans
+
+Bu proje [MIT Lisansı](LICENSE) kapsamında açık kaynak olarak sunulmuştur.  
+Dilediğiniz gibi kullanabilir, değiştirebilir ve paylaşabilirsiniz — ancak orijinal geliştiriciyi belirtmeniz gerekir.
 
 ---
 
