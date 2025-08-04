@@ -1,3 +1,6 @@
+# MIT License
+# Copyright (c) 2025 Necati Berk Dönmez
+
 #kullanılan kütüphaneler
 import csv
 from datetime import datetime
