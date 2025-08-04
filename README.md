@@ -11,7 +11,7 @@ Bu proje, İngilizce kelimelerin Türkçe karşılıklarını test eden komut sa
 - [Kurulum](#kurulum)  
 - [Kullanım](#kullanım)  
 - [Dosya Yapısı](#dosya-yapısı)
-- [Lisans](...)
+- [Lisans](#Lisans)
 
 ---
 
